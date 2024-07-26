@@ -1,6 +1,6 @@
 # Restaurant Sales Analysis using Spark in Databricks
 
-This project is an end-to-end data analysis pipeline for restaurant sales data using Apache Spark in Databricks. It includes various analyses and visualizations such as customer spending, menu pricing, customer visits, category sales, and time-based sales trends.
+This project is an end-to-end data analysis for restaurant sales data using Apache Spark in Databricks. It includes various analyses and visualizations such as customer spending, menu pricing, customer visits, category sales, and time-based sales trends.
 
 ## Table of Contents
 - [Project Description](#project-description)
